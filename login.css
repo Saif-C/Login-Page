@@ -1,0 +1,124 @@
+body{
+    background-image: url(login.jpg);
+}
+
+#form1{
+    position: relative; top: 10px; left: 10px;
+    width: fit-content;
+    
+}
+
+#datel{
+    font-family: 'Varela Round', sans-serif;
+    font-size:x-large;
+    color: yellow;   
+}
+
+#date{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    color:teal;
+    border-radius: 20px;
+    padding: 3px;
+    background-color:honeydew;
+    width: fit-content;
+    border-style: double;
+}
+
+
+
+#form2{
+    position: relative; top: 50px; left: 10px;
+    font-size: larger;
+}
+
+#phone{
+    font-size:x-large;
+    font-family: 'Road Rage', cursive;
+    width: 150px;
+    color: green;
+    border-style: dashed;
+}
+
+#plable{
+    font-size:x-large;
+    color:rosybrown;
+    font-family: 'Varela Round', sans-serif;
+}
+
+#form3{
+    background-color: rgba(255, 255, 102,0.2);
+    position: absolute; top: 210px; left: 280px;
+    height: 340px;
+    width: fit-content;
+    font-size:larger;
+    
+
+}
+#Fname{
+    font-size: larger;
+    font-family: 'Architects Daughter', cursive;
+    width: 350px;
+    color: blue;
+}
+#Lname{
+    font-size: larger;
+    font-family: 'Architects Daughter', cursive;
+    width: 350px;
+    color: blue;
+}
+
+#email{
+    font-size: larger;
+    font-family: 'Architects Daughter', cursive;
+    color: green;
+    background-color: rgba(230, 255, 255.0.1);
+    width: 350px;
+}
+#pwd{
+    font-size: larger;
+    font-family: 'Architects Daughter', cursive;
+    color: red;
+    background-color: rgba(230, 255, 255.0.1);
+    width: 350px;
+
+}
+
+.emoji{
+    font-size: 25px;
+
+}
+.lb{
+    font-size: large;
+    font-style: oblique;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:navy;
+    text-decoration: underline;
+}
+
+.ds{
+    font-size: larger;
+    color: coral;
+}
+
+button{
+    font-style:italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:x-large;
+    color:aliceblue;
+    padding: 7px;
+    border-radius: 30px 2px;
+    border-color:greenyellow;
+    background-image: url(https://dz2cdn1.dzone.com/storage/temp/13633683-gradient-colors.png);
+    background-size: contain;
+    box-shadow: 8px;
+}
+
+#title{
+    text-align: center;
+    background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--I9_HSqYF--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/ynhseyd09pzan30xjjbq.png);
+    position: absolute; top: 160px; left: 280px;
+    width: 875px;
+    font-family: 'Finger Paint', cursive;
+    color:darkcyan;
+}
